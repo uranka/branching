@@ -1,1 +1,1 @@
-Upisana prva linija u fajl
+Upisana pocetna linija u fajl m1.txt
